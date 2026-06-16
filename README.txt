@@ -1,7 +1,17 @@
 This document is a work-in-progress, and not yet meant for public distribution.
-It will eventuall be moved to the main 'bsc' repository.
-This document is being written and developed in the open in order to
-get feedback/suggestions/contributions as it is being developed.
+It will eventually be moved to the main 'bsc' repository.
+
+Despite being in very inchoate form, this document is being written
+and developed in the open in order to welcome feedback/ suggestions/
+contributions as it is being developed.
+
+There is as yet no plan for the organization of this document; it will
+emerge as we add content.  Content will not be added in a linear
+fashion. Content is likely to be added based on individuals' actual
+experience in reading and understanding various parts of the code.
+
+// ****************************************************************
+Some history of this document
 
 2026-06-10: Starting a LaTeX document 'bsc_tour.{tex,pdf}' for documentation of bsc.
 
