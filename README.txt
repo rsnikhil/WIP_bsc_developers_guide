@@ -10,6 +10,12 @@ emerge as we add content.  Content will not be added in a linear
 fashion. Content is likely to be added based on individuals' actual
 experience in reading and understanding various parts of the code.
 
+The document is written in LaTeX, and produces a PDF file.
+
+The checked-in PDF is meant to be a recent generation of the PDF.
+
+`make p`    will regenerate the PDF from LaTeX sources.
+
 // ****************************************************************
 Some history of this document
 
