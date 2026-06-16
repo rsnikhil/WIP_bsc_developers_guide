@@ -1,0 +1,16 @@
+This document is a work-in-progress, and not yet meant for public distribution.
+It will eventuall be moved to the main 'bsc' repository.
+This document is being written and developed in the open in order to
+get feedback/suggestions/contributions as it is being developed.
+
+2026-06-10: Starting a LaTeX document 'bsc_tour.{tex,pdf}' for documentation of bsc.
+
+Decided to go with LaTeX/PDF (instead of AsciiDoc or something else) because:
+* PDF documents have nice structure (chapters, sections, subsections, ...)
+* LaTeX documents do well with fixed-width fonts
+* LaTeX documents do well with imported jpg and png diagrams
+* LaTeX documents do well with cross-references
+* LaTeX documents do well with indexes
+* LaTeX documents do well with tables-of-contents
+* etc.
+* I'm familiar with it (no learning curve)
